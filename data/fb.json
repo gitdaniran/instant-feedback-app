@@ -1,0 +1,458 @@
+{
+  "MladenIvanovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Mar 26, 2023 9:58:09 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Mladen",
+      "datetime": "Apr 05, 2023 8:25:14 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje..."
+    }
+  ],
+  "SanjaDoljanica": [
+    {
+      "id": 2,
+      "title": "Motivacija Sanja zaposlenih",
+      "datetime": "Mar 26, 2023 9:58:09 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Apr 05, 2023 8:30:37 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Sanja",
+      "datetime": "Mar 27, 2023 8:41:42 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "SladjanaStojanovic": [
+    {
+      "id": 2,
+      "title": "Motivacija Sanja zaposlenih",
+      "datetime": "Mar 26, 2023 9:58:09 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Apr 02, 2023 10:12:13 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Sladjana.",
+      "datetime": "Mar 28, 2023 7:42:19 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "MateaMaslovar": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:47:38 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Matea.",
+      "datetime": "Apr 05, 2023 10:19:07 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "SuzanaSavovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:19:26 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Suzana.",
+      "datetime": "Apr 05, 2023 10:19:40 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "TamaraMiladinovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:19:58 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Tamara.",
+      "datetime": "Apr 05, 2023 10:20:08 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "TinaAmidovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:20:37 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Tina.",
+      "datetime": "Apr 05, 2023 10:20:30 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "DanijelaRadevic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:21:04 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Daca.",
+      "datetime": "Apr 05, 2023 10:20:57 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "NevenkaVilotijevic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:21:30 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Nevenka.",
+      "datetime": "Apr 05, 2023 10:21:23 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "ElenaBjelakovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:21:56 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Elena.",
+      "datetime": "Apr 05, 2023 10:21:47 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "JasminaRatkovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih",
+      "datetime": "Apr 05, 2023 10:22:30 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Jasmina.",
+      "datetime": "Apr 05, 2023 10:22:19 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ],
+  "DankaMilovanovic": [
+    {
+      "id": 2,
+      "title": "Motivacija zaposlenih.",
+      "datetime": "Apr 05, 2023 10:22:57 PM",
+      "body": "Bilo je potrebno snimiti radnju za ocenu.",
+      "task": "U kratkom roku smo morali da pripremimo radnju za snimanje.",
+      "action": "Zaposleni je svojim primerom motivisao druge kolege da daju svoj maksimum u sredjivanju radnje.",
+      "result": "Radnja je u kratkom roku bila spremna za snimanje i dobili smo visoku ocenu."
+    },
+    {
+      "id": 4,
+      "title": "Razvoj i usavrsavanje",
+      "datetime": "Mar 26, 2023 9:51:24 PM",
+      "body": "Store manager je bio na bolovanju i bilo je neophodno srediti i potvrditi mesecne sate.",
+      "task": "Zaposleni je u dogovoru da Store manager-om trebao da zavrsi mesecne sate i iste potvrdi kroz sistem.",
+      "action": "Zaposleni je pokazao interesovanje i bez ikakvih problema izvrsio zadatak.",
+      "result": "Zaposleni je usavrsio svoje znanje i pokazao inicijativu."
+    },
+    {
+      "id": 5,
+      "title": "Timski rad",
+      "datetime": "Mar 26, 2023 9:43:17 PM",
+      "body": "Kolege sa zenskog sektora trebale su da menjaju konstrukciju zidova na Casualu.",
+      "task": "Trebalo je u sto kracem roku izmeniti konstrukciju zidova i radnju dovesti u stanje privlacno za kupce.",
+      "action": "Zaposleni je samoinicijatino pritekao u pomoc kolegama i pomogao da se konstrukcija sto pre izmeni.",
+      "result": "Radnja je u najkracem roku bila spremna za kupce i izgledala atraktivno."
+    },
+    {
+      "id": 6,
+      "title": "Usluga kupaca Danka.",
+      "datetime": "Apr 05, 2023 10:22:45 PM",
+      "body": "Kupcu je bila potrebna pomoc oko kupovine sakoa.",
+      "task": "Trebalo je pronaci odgovarajucu kombinaciju za pantalone i kosulju koju je kupac vec odabrao.",
+      "action": "Zaposleni je proporucio sako koji se odlicno uklapao uz kombinaciju i ponudio je kupcu i cipele i kais koji idu uz to.",
+      "result": "Kupac je uzeo i sako i cipele kao i kais i potpuno zadovoljan izasao iz radnje.."
+    }
+  ]
+}

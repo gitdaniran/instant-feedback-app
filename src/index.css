@@ -1,0 +1,316 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  background-color: #efefef;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+#root {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  width: 100%;
+  max-width: 800px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid #333;
+  box-shadow: 0px 0px 15px gray;
+  margin: 0 1rem;
+}
+
+.header {
+  width: 100%;
+  min-height: 10vh;
+  background-color: antiquewhite;
+  color: rgb(30, 30, 134);
+  text-shadow:2px 2px 2px rgba(30, 30, 134, 0.5) ;
+  box-shadow: inset 2px 2px 4px rgba(0, 0, 0, 0.3);
+  display: grid;
+  place-content: center;
+  border: 1px solid #333;
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-around;
+  background-color: lightblue;
+  min-height: 92px;
+  padding: 10px;
+  background-image: url(/public/img/pozadina.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.nav p {
+  font-weight: 600;
+  padding: 3px;
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 3px;
+  box-shadow: 3px 3px rgb(52, 50, 50) ;
+  height: 26px;
+}
+
+.dropdown {
+  font-weight: 600;
+  width: 200px;
+  padding: 3px;
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 3px;
+  box-shadow: 3px 3px rgb(52, 50, 50) ;
+  
+}
+
+.dropdown-menu {
+  display: none;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+ 
+  
+}
+.dropdown:hover .dropdown-menu li {
+  margin-top: 5px;
+  padding: 3px;
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 3px;
+  
+  
+}
+
+.dropdown-menu li:hover {
+  cursor: pointer;
+  color: rgb(30, 30, 134);
+  box-shadow: inset 1px 1px 2px rgba(0, 0, 0, 0.3);
+  
+} 
+
+.main, .NewFb, .PostPage, .NewPost, .about {
+  width: 100%;
+  flex-grow: 1;
+  min-height: 72vh;
+  padding: 1rem;
+  overflow-y: auto;
+  background-color: #fff;
+  background-color: aliceblue;
+}
+
+/* .about {
+  width: 100%;
+  flex-grow: 1;
+  padding: 1rem;
+  overflow-y: auto;
+  background-color: #fff;
+  background-color: aliceblue;
+} */
+
+.Footer {
+  width: 100%;
+  background-color: rgb(29, 134, 129);
+  display: grid;
+  place-content: center;
+  padding: 0.5rem;
+  color: whitesmoke;
+}
+
+.navMladen {
+  width: 100%;
+  background-color: #333;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  position: sticky;
+  top: 0;
+}
+
+.searchForm {
+  width: 65%;
+  /* padding: 1rem 0 0 0.75rem; */
+}
+
+.searchForm input[type="text"] {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  min-height: 48px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  outline: none;
+}
+
+.searchForm label {
+  position: absolute;
+  left: -99999px;
+}
+
+.navMladen ul {
+  color: #fff;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  
+}
+
+.navMladen li {
+  padding: 5px;
+  border: 1px solid whitesmoke;
+  border-radius: 2px;
+}
+
+.navMladen li:hover, 
+.navMladen li:focus {
+  padding: 5px;
+}
+
+.navMladen li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navMladen li:hover, 
+.navMladen li:focus, 
+.navMladen li:hover a, 
+.navMladen li:focus a  {
+  background-color: #eee;
+  color: #333;
+  border-radius: 2px;
+}
+
+.navMladen li:hover a, 
+.navMladen li:focus a {
+  cursor: pointer;
+}
+
+.post:first-child {
+  margin-top: 0;
+}
+
+.post:last-child {
+  border-bottom: none;
+}
+
+.postDate {
+  font-size: 0.75rem;
+  margin-top: 0.5rem;
+}
+
+.postBody {
+  margin: 1rem 0;
+}
+
+.post {
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.PostPage button {
+  height: 48px;
+  min-width: 48px;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  font-size: 1rem;
+  
+  color: #fff;
+  cursor: pointer;
+}
+
+.deleteButton {
+  background-color: red;
+}
+
+.editButton {
+  background-color: #333;
+}
+
+.postDate {
+  font-size: 0.75rem;
+  margin-top: 0.25rem;
+}
+
+.postBody {
+  margin: 1rem 0;
+  border: 1px solid black;
+  width: 100%;
+  height: 60px;
+  padding: 0.3rem;
+  border-radius: 5px;
+  background-color: rgb(248, 245, 241);
+}
+
+.post h2 {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 0.3rem;
+  background-color: rgb(186, 241, 241); 
+  font-size: 1.2rem;
+}
+
+.newPostForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.newPostForm label {
+  margin-top: 1rem;
+}
+
+.newPostForm input[type='text'], 
+.newPostForm textarea {
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  min-height: 40px;
+  max-height: 60px;
+  font-size: 1rem;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  margin-right: 0.25rem;
+  outline: none;
+}
+
+/* .newPostForm textarea {
+  height: 150px;
+} */
+
+.newPostForm button {
+  margin-top: 1rem;
+  height: 48px;
+  min-width: 48px;
+  border-radius: 10px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.main img {
+  display: flex;
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  
+}
