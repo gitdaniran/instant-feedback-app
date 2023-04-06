@@ -20,22 +20,6 @@ export default function Nav({items, setItems, handleNameChange,
               </li>
             ))}
 
-            {/* {items.map((item, index) => (
-              <li key={index} value={index} onClick={handleNameChange}>
-                {item.ime}
-              </li>
-            ))} */}
-            
-            
-            {/* <li onClick={(e) => changeName1()}>
-              <Link to='/mladen'>Mladen Ivanovic</Link>
-            </li>
-            <li onClick={(e) => changeName()}>
-              <Link to='/mladen'>Sanja Doljanica</Link>
-            </li>
-            <li onClick={(e) => changeName2()}>
-              <Link to='/mladen'>Sladjana Stojanovic</Link>
-            </li> */}
           </ul>
         </li>
       </ul>
@@ -46,10 +30,7 @@ export default function Nav({items, setItems, handleNameChange,
       <p onClick={handleHome}>
         <Link to='/'>Home</Link>
       </p>
-      {/* <p>
-        <Link to='/mladen'>Back</Link>
-      </p> */}
-
+      
     </div>
   )
 }

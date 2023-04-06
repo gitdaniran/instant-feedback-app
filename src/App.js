@@ -3,8 +3,6 @@ import { BrowserRouter as Router, Route, Routes, Link, useNavigate } from 'react
 import Header from './Header';
 import Nav from './Nav';
 import Mladen from './Mladen';
-import Sanja from './Sanja';
-import Sladjana from './Sladjana'
 import About from './About'
 import Footer from './Footer';
 import Home from './Home';
@@ -15,7 +13,7 @@ import { format } from 'date-fns';
 import EditFb from './EditFb';
 import api from './api/feedbacks';
 import { useParams } from 'react-router-dom';
-import NewEmployee from './NewEmployee';
+
 
 
 
@@ -29,13 +27,11 @@ function App() {
   const [postAction, setPostAction] = useState('')
   const [postTask, setPostTask] = useState('')
   const [postResult, setPostResult] = useState('')
-
   const [editTitle, setEditTitle] = useState('')
   const [editBody, setEditBody] = useState('')
   const [editTask, setEditTask] = useState('')
   const [editAction, setEditAction] = useState('')
   const [editResult, setEditResult] = useState('')
-  
   const [items, setItems] = useState([
     { id: 1, ime: 'Mladen Ivanovic'},
     { id: 2, ime: 'Sanja Doljanica'},
@@ -191,23 +187,7 @@ function App() {
           setSearch={setSearch}
           posts={serachResults}
         />}/>
-        {/* <Route path='/sanja' element={<Sanja
-          search={search}
-          setSearch={setSearch}
-          posts={serachResults}
-        />}/>
-        <Route path='/sladjana' element={<Sladjana
-          search={search}
-          setSearch={setSearch}
-          posts={serachResults}
-        />}/> */}
         <Route path='/about' element={<About/>}/>
-        {/* <Route path='/employee' element={<NewEmployee
-          postName={postName}
-          setPostName={setPostName}
-          
-        />}/> */}
-
         <Route path='/post' element={<NewFb
           handleSubmit={handleSubmit}
           postTitle={postTitle}
